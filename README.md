@@ -13,7 +13,8 @@ Sanae for Discord a cute tohou bot baseon onebotv11
 ```
 # Linux/macOS
 python3 -m pip install -U discord.py
-
+```
+```
 # Windows
 py -3 -m pip install -U discord.py
 ```
@@ -22,9 +23,11 @@ py -3 -m pip install -U discord.py
 你可在运行后产生的sanae.ini编辑服务器地址和port
 
 3，运行sanae.py
+```
 python sanae.py
-
+```
 遇到问题？询问作者请到：
+```
 https://discord.gg/VHVfjC2
-
+```
 4，其他，代码中的ip地址均为临时测试地址，具体地址会在上方频道定期更新
